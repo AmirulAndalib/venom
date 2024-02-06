@@ -22,8 +22,9 @@
 ## Group of Support - Grupo de Suporte - Grupo de Apoyo
 <a target="_blank" href="https://chat.whatsapp.com/Kpm6sPivtQM99vfk9Nnasz" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
+> # Attention we are undergoing maintenance on 02/08/2024 there will be no new document and functional update of the Venom BOT
 
-
+> # Atenção estámos em manutenção dia 08/02/2024 estará no ar uma nova documentação e uma atualização funcional do Venom BOT
 
 ## Installation - Instalação - Instalación
 
